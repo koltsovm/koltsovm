@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **TypeScript**
 
 <h3> 📫 How to reach me:</h3>
-- **micklekoltsov@gmail.com**
-- https://t.me/koltsovm
+* micklekoltsov@gmail.com
+* https://t.me/koltsovm
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
