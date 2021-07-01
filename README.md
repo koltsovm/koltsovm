@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mikhail Koltsov</h1>
+<h1 align="center">👋 Hi, I'm Michael Koltsov</h1>
 <h3 align="center">Full Stack JS Developer. I am passionate about web-development && tech. From Russia with love.</h3>
 
 
