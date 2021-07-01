@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **micklekoltsov@gmail.com https://t.me/koltsovm**
+<h3> 📫 How to reach me: ** ** </h3>
+- micklekoltsov@gmail.com
+- https://t.me/koltsovm
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://instagram.com/koltsov_michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koltsov_michael" height="30" width="40" /></a>
 </p>
