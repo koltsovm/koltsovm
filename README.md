@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **TypeScript**
 
 <h3> 📫 How to reach me:</h3>
+
 * micklekoltsov@gmail.com
 * https://t.me/koltsovm
 
