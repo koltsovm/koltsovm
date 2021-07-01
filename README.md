@@ -1,12 +1,37 @@
 <h1 align="center">👋 Hi, I'm Mikhail Koltsov</h1>
 <h3 align="center">Full Stack JS Developer. I am passionate about web-development && tech. From Russia with love.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+
+<h3>📂 Some of my projects: </h3>
+
+* 🖼 https://github.com/hippofanty/Artnetic - service for renting art objects
+* 🏕 https://github.com/koltsovm/spirit-of-adventures - portal for creating and posting author's "craft" travels
+* 📚 https://github.com/koltsovm/project-referats - portal for ordering written works
+
+<h3>🛠 My Tech Stack </h3>
+
+* HTML
+* CSS / Bootstrap / Material UI / styled-components
+* JavaScript (ES6)
+* React
+* Redux / Redux-Thunk / Redux-Saga
+* Express
+* Node.JS
+* REST API
+* MongoDB / Mongoose / MongoDB Atlas
+* Heroku
+
+
+<h3>🌱 I’m currently learning: </h3>
+
+* TypeScript (the first experience with TS was in project https://github.com/hippofanty/Artnetic. This one was completed in 10 days by 3 authors)
+* SQL
 
 <h3> 📫 How to reach me:</h3>
 
 * micklekoltsov@gmail.com
 * https://t.me/koltsovm
+* +7 (920) 297-27-43
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
