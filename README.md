@@ -12,7 +12,7 @@
 
 * HTML
 * CSS / Bootstrap / Material UI / styled-components
-* JavaScript (ES6)
+* JavaScript
 * React
 * Redux / Redux-Thunk / Redux-Saga
 * Express
