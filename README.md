@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Michael Koltsov</h1>
-<h3 align="center">Full Stack JS Developer. I am passionate about web-development && tech. From Russia with love.</h3>
+<h3 align="center">Full Stack JS Developer. I am passionate about web-development && tech.</h3>
 
 
 <h3>📂 Some of my projects: </h3>
