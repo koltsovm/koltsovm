@@ -35,7 +35,6 @@
 
 * micklekoltsov@gmail.com
 * https://t.me/koltsovm
-* +7 (920) 297-27-43
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
