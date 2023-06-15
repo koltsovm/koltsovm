@@ -11,25 +11,22 @@
 <h3>🛠 My Tech Stack </h3>
 
 * HTML
-* CSS / Bootstrap / Material UI / styled-components
+* CSS / Bootstrap / Material UI / styled-components / SASS
 * JavaScript
 * React
 * Redux / Redux-Thunk / Redux-Saga
+* TypeScript
 * Express
 * Node.JS
 * REST API
 * MongoDB / Mongoose / MongoDB Atlas
 * Heroku
+* WebRTC
+* JanusJS
 
 <h3>📖 Language proficiency: </h3>
 
 * English - B1 (Intermediate English)
-
-
-<h3>🌱 I’m currently learning: </h3>
-
-* TypeScript (the first experience with TS was in project https://github.com/hippofanty/Artnetic. This one was completed in 10 days by 3 authors)
-* SQL
 
 <h3> 📫 How to reach me:</h3>
 
