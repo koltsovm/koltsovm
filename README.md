@@ -31,7 +31,7 @@
 <h3> 📫 How to reach me:</h3>
 
 * micklekoltsov@gmail.com
-* https://t.me/koltsovm
+* https://t.me/Mechanical_Ring
 
 <h3 align="left">My social networks:</h3>
 <p align="left">
