@@ -4,7 +4,7 @@
 
 <h3>📂 Some of my projects: </h3>
 
-* 🖼 [https://github.com/hippofanty/Artnetic](https://github.com/koltsovm/Artnetic) - service for renting art objects
+* 🖼 https://github.com/koltsovm/Artnetic - service for renting art objects
 * 🏕 https://github.com/koltsovm/spirit-of-adventures - portal for creating and posting author's "craft" travels
 * 📚 https://github.com/koltsovm/project-referats - portal for ordering written works
 
