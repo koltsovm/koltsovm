@@ -10,16 +10,16 @@
 
 <h3>🛠 My Tech Stack </h3>
 
-* HTML
-* CSS / Bootstrap / Material UI / styled-components / SASS
 * JavaScript
+* TypeScript
 * React
 * Redux / Redux-Thunk / Redux-Saga
-* TypeScript
 * Express
 * Node.JS
-* REST API
 * MongoDB / Mongoose / MongoDB Atlas
+* HTML
+* CSS / Bootstrap / Material UI / styled-components / SASS
+* REST API
 * Heroku
 * WebRTC
 * JanusJS
