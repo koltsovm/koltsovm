@@ -1,13 +1,5 @@
 <h1 align="center">👋 Hi, I'm Michael Koltsov</h1>
-<h3 align="center">Full Stack JS Developer. I am passionate about web-development && tech.</h3>
-
-
-<h3>📂 Some of my projects: </h3>
-
-* 🖼 https://github.com/koltsovm/Artnetic - service for renting art objects
-* 🏕 https://github.com/koltsovm/spirit-of-adventures - portal for creating and posting author's "craft" travels
-* 📚 https://github.com/koltsovm/project-referats - portal for ordering written works
-
+<h3 align="center">JavaScript Developer. I am passionate about web-development && tech.</h3>
 <h3>🛠 My Tech Stack </h3>
 
 * JavaScript
@@ -20,7 +12,6 @@
 * HTML
 * CSS / Bootstrap / Material UI / styled-components / SASS
 * REST API
-* Heroku
 * WebRTC
 * JanusJS
 
