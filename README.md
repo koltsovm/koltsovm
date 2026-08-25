@@ -17,11 +17,11 @@
 
 <h3>📖 Language proficiency: </h3>
 
-* English - B1 (Intermediate English)
+* English - B2 (Upper-Intermediate English)
 
 <h3> 📫 How to reach me:</h3>
 
-* micklekoltsov@gmail.com
+* micklekoltsov@yandex.ru
 * https://t.me/Mechanical_Ring
 
 <h3 align="left">My social networks:</h3>
