@@ -14,6 +14,8 @@
 * REST API
 * WebRTC
 * JanusJS
+* LLMs
+* Cursor, ClaudeCode, Codex, OpenCode, ClineCLI
 
 <h3>📖 Language proficiency: </h3>
 
